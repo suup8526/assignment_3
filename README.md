@@ -7,4 +7,4 @@
 Create a git repo that produces the given commit graph
 
 
-This is a demo
+final commit on bug-fix branch
