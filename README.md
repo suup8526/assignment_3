@@ -4,4 +4,4 @@
 ##### Contributors: Suhas Upadya
 ##### Homework 3 - Git and GitHub
 
-
+Create a git repo that produces the given commit graph
