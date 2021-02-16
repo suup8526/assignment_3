@@ -1,1 +1,3 @@
-** Assignment 3 **
+## Assignment 3
+
+##### Contributors: Suhas Upadya
