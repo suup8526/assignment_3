@@ -5,3 +5,6 @@
 ##### Homework 3 - Git and GitHub
 
 Create a git repo that produces the given commit graph
+
+
+This is a demo
