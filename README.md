@@ -25,4 +25,4 @@ List of commands used:
 13.  git push origin
 14.  git remote add origin
 
-
+Added an extra commit(16th): Converted the private repo to public repo as Github doesn't display the commit graph in the prvate repo(as it is not Github pro).
