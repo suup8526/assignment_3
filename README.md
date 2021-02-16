@@ -3,3 +3,7 @@
 ##### Contributors: Suhas Upadya
 
 ##### Homework 3 - Git and GitHub
+
+
+
+List of commands used:
